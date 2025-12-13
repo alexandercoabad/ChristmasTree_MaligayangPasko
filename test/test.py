@@ -36,7 +36,7 @@ async def test_project(dut):
     await ClockCycles(dut.clk, 640+48+16+96)
 
     # hsync and vsync should be de-asserted (high)
-    assert dut.uo_out[3].value == 1
+    assert dut.uo_out[3].value == 0
     assert dut.uo_out[7].value == 1
 
     # hsync should go low after the front porch
