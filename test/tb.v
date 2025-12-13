@@ -28,7 +28,7 @@ module tb ();
 `endif
 
   // Replace tt_um_example with your module name:
-  ChristmasTree_MaligayangPasko user_project (
+  tt_um_ChristmasTree_MaligayangPasko user_project (
 
       // Include power ports for the Gate Level test:
 `ifdef GL_TEST
