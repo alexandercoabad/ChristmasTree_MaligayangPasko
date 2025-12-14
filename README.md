@@ -9,18 +9,15 @@ I uploaded the generated Verilog to the Tiny Tapeout GitHub Actions to produce t
 https://github.com/user-attachments/assets/f3e034be-aab7-43b5-a54e-341ddd1bcb85
 
 
-<img width="1431" height="742" alt="Screenshot 2025-12-13 at 10 48 06 PM" src="https://github.com/user-attachments/assets/16c202bd-a232-4769-b33f-4bdfc3f6fc17" />
-
-
 # 2D View
 <img width="965" height="679" alt="Screenshot 2025-12-13 at 10 49 41 PM" src="https://github.com/user-attachments/assets/371c5e23-a395-4bce-b070-1effe26f1efa" />
 
 # 3D View
 <img width="1426" height="752" alt="Screenshot 2025-12-14 at 1 55 23 PM" src="https://github.com/user-attachments/assets/6f4b6efc-ba9f-401d-85e4-4bf0cf3425be" />
-3D GDS Viewer: https://gds-viewer.tinytapeout.com/?model=https://alexandercoabad.github.io/ChristmasTree_MaligayangPasko/tinytapeout.oas&pdk=sky130A
 
+# 3D GDS Viewer: 
+https://gds-viewer.tinytapeout.com/?model=https://alexandercoabad.github.io/ChristmasTree_MaligayangPasko/tinytapeout.oas&pdk=sky130A
 
-https://www.linkedin.com/posts/alexander-co-abad-79445767_here-is-my-ai-assisted-circuit-design-using-activity-7405624547523301376-7pgE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4gaKABRk1KxBdDQFTnsu-IalkZq-7v9R4
 
 
 # Tiny Tapeout Verilog Project Template
