@@ -1,5 +1,12 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
+<img width="1431" height="742" alt="Screenshot 2025-12-13 at 10 48 06 PM" src="https://github.com/user-attachments/assets/16c202bd-a232-4769-b33f-4bdfc3f6fc17" />
+
+<img width="965" height="679" alt="Screenshot 2025-12-13 at 10 49 41 PM" src="https://github.com/user-attachments/assets/371c5e23-a395-4bce-b070-1effe26f1efa" />
+
+https://www.linkedin.com/posts/alexander-co-abad-79445767_here-is-my-ai-assisted-circuit-design-using-activity-7405624547523301376-7pgE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4gaKABRk1KxBdDQFTnsu-IalkZq-7v9R4
+
+
 # Tiny Tapeout Verilog Project Template
 
 - [Read the documentation for project](docs/info.md)
