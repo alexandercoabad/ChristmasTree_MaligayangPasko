@@ -1,7 +1,7 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 # Merry Christmas! - Maligayang Pasko!
 
-Here is my AI-assisted circuit design using Google Gemini to modify the Verilog code from Tiny Tapeout's VGA Playground [this](https://vga-playground.com/) to produce a Christmas Tree VGA Display with the texts "MERRY XMAS" and "MALIGAYANG PASKO! (Filipino Christmas greeting).
+Here is my AI-assisted circuit design using Google Gemini to modify the Verilog code from Tiny Tapeout's [VGA Playground](https://vga-playground.com/) to produce a Christmas Tree VGA Display with the texts "MERRY XMAS" and "MALIGAYANG PASKO! (Filipino Christmas greeting).
 
 I uploaded the generated Verilog to the Tiny Tapeout GitHub Actions to produce the GDS or IC layout as shown in the video.
 
