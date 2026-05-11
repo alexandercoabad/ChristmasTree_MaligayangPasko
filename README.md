@@ -3,6 +3,8 @@
 
 Here is my AI-assisted circuit design using Google Gemini to modify the Verilog code from [Tiny Tapeout VGA Playground](https://vga-playground.com/) to produce a Christmas Tree VGA Display with the texts "MERRY XMAS" and "MALIGAYANG PASKO! (Filipino Christmas greeting).
 
+Click here to see the actual VGA Playground Christmas Tree: https://vga-playground.com/?repo=https://github.com/alexandercoabad/ChristmasTree_MaligayangPasko
+
 I uploaded the generated Verilog to the Tiny Tapeout GitHub Actions to produce the GDS or IC layout as shown in the video.
 
 https://github.com/user-attachments/assets/f3e034be-aab7-43b5-a54e-341ddd1bcb85
