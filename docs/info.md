@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-ChristmasTree_MaligayangPasko VGA Display
+It will display a Christmas Tree on a VGA Monitor/Display.
 
 ## How to test
 
-ChristmasTree_MaligayangPasko VGA Display
+Please use the VGA PMOD and connect to a VGA Monitor
 
 ## External hardware
 
-ChristmasTree_MaligayangPasko VGA Display
+VGA Display and VGA PMOD
